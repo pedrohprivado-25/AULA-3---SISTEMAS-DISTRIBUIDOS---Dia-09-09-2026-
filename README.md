@@ -51,7 +51,7 @@ Outro ponto que achei interessante foi perceber que, em sistemas distribuídos m
 
 ## Arquivos desta aula
 
-- `aula3.pptx` — Slides utilizados na aula
+
 - `ATIVIDADE PRATICA - Aula - 3 Sistemas Distribuidos.docx` — Atividade prática de comunicação UDP
 - `SISTEMAS DISTRIBUÍDOS — AULA 3 DESAFIO.docx` — Desafios práticos da aula
 - `Desafio_Conceitual_TCP_UDP_Aula_3.docx` — Desafio conceitual sobre TCP e UDP
